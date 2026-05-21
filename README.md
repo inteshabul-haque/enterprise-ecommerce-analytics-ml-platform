@@ -284,7 +284,7 @@ Business Insights
 
 # Author
 
-ALX
+Inteshabul Haque
 
 Enterprise Analytics & Machine Learning Project
 ```
